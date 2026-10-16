@@ -2,7 +2,9 @@
 
 Windows x64 설치파일과 자동 업데이트를 제공하는 공개 배포 저장소입니다.
 
-**[최신 설치파일 다운로드](https://github.com/depthasset-byte/codex-chat-releases/releases/latest)**
+**[⬇ 최신 설치파일 다운로드 · Windows x64](https://github.com/depthasset-byte/codex-chat-releases/releases/latest/download/DepthAIChat-Setup-x64.exe)**
+
+클릭하면 설치파일이 바로 다운로드됩니다. [버전별 변경 사항 보기](https://github.com/depthasset-byte/codex-chat-releases/releases/latest)
 
 - 처음 한 번 Setup.exe를 설치하면 이후 앱 왼쪽 아래 버전·업데이트에서 새 버전을 적용할 수 있습니다.
 - AI 작업·승인·로그인 중에는 업데이트를 보류합니다. 적용할 때 대화를 저장하고 재시작합니다.
